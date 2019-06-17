@@ -34,5 +34,5 @@ another sub-section
 ~~~~~~~~~~~~~~~~~~~~~
 This is a plain text example:
 
-''$echo hello world > /tmp/output.txt''
-''cat /tmp/output.txt''
+``$echo hello world > /tmp/output.txt``
+``cat /tmp/output.txt``
