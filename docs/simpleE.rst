@@ -5,7 +5,7 @@ Headers, bullets and plaintext
 
 Section title
 --------------
-a list of stuff:
+a list of stuff::
         * book
         * map
         * pensil
@@ -13,6 +13,7 @@ a list of stuff:
 
 sub-section
 ~~~~~~~~~~~~~~
+a nested list of stuff::
         * clothing
           - shoes
           - hat
