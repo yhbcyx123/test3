@@ -15,12 +15,19 @@ sub-section
 ~~~~~~~~~~~~~~
 a nested list of stuff::
         * clothing
+
           - shoes
+
           - hat
+
           - coat
+
         * toiletries
+
           - toothbrush
+
           - asparin
+
           - hand lotion
 
 another sub-section
