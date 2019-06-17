@@ -1,10 +1,10 @@
-=================
+==========================
 Simple Document Example
-=================
+==========================
 Headers, bullets and plaintext
 
 Section title
---------------
+------------------
 a list of stuff::
         * book
         * map
@@ -12,7 +12,7 @@ a list of stuff::
         * apple
 
 sub-section
-~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 a nested list of stuff::
         * clothing
 
@@ -31,7 +31,7 @@ a nested list of stuff::
           - hand lotion
 
 another sub-section
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 This is a plain text example:
 
 ''$echo hello world > /tmp/output.txt''
